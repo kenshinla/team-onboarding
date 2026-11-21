@@ -1,0 +1,84 @@
+{
+  "customers": {
+    "KT-C001": {
+      "customer_id": "KT-C001",
+      "plan_name": "기가 인터넷 베이직",
+      "contracted_speed_mbps": 500,
+      "service_status": "정상",
+      "contract_end_date": "2027-04-30",
+      "region": "서울시 강남구"
+    },
+    "KT-C002": {
+      "customer_id": "KT-C002",
+      "plan_name": "인터넷 슬림",
+      "contracted_speed_mbps": 100,
+      "service_status": "점검 필요",
+      "contract_end_date": "2026-12-15",
+      "region": "경기도 성남시"
+    },
+    "KT-C003": {
+      "customer_id": "KT-C003",
+      "plan_name": "기가 인터넷 베이직",
+      "contracted_speed_mbps": 500,
+      "service_status": "정상",
+      "contract_end_date": "2027-08-20",
+      "region": "인천시 남동구"
+    },
+    "KT-C004": {
+      "customer_id": "KT-C004",
+      "plan_name": "인터넷 라이트",
+      "contracted_speed_mbps": 300,
+      "service_status": "정상",
+      "contract_end_date": "2027-01-31",
+      "region": "부산시 해운대구"
+    },
+    "KT-C005": {
+      "customer_id": "KT-C005",
+      "plan_name": "기가 인터넷 프리미엄",
+      "contracted_speed_mbps": 1000,
+      "service_status": "점검 필요",
+      "contract_end_date": "2028-03-10",
+      "region": "대전시 유성구"
+    },
+    "KT-C006": {
+      "customer_id": "KT-C006",
+      "plan_name": "인터넷 슬림",
+      "contracted_speed_mbps": 100,
+      "service_status": "정상",
+      "contract_end_date": "2026-11-30",
+      "region": "서울시 송파구"
+    },
+    "KT-C007": {
+      "customer_id": "KT-C007",
+      "plan_name": "기가 인터넷 베이직",
+      "contracted_speed_mbps": 500,
+      "service_status": "장애 영향 확인 중",
+      "contract_end_date": "2027-06-18",
+      "region": "광주시 북구"
+    },
+    "KT-C008": {
+      "customer_id": "KT-C008",
+      "plan_name": "인터넷 라이트",
+      "contracted_speed_mbps": 300,
+      "service_status": "점검 필요",
+      "contract_end_date": "2027-09-25",
+      "region": "제주시 제주시"
+    },
+    "KT-C009": {
+      "customer_id": "KT-C009",
+      "plan_name": "기가 인터넷 프리미엄",
+      "contracted_speed_mbps": 1000,
+      "service_status": "정상",
+      "contract_end_date": "2028-01-12",
+      "region": "서울시 강남구"
+    },
+    "KT-C010": {
+      "customer_id": "KT-C010",
+      "plan_name": "인터넷 슬림",
+      "contracted_speed_mbps": 100,
+      "service_status": "정상",
+      "contract_end_date": "2027-10-05",
+      "region": "경기도 성남시"
+    }
+  }
+}

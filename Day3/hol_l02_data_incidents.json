@@ -1,0 +1,104 @@
+{
+  "incidents": [
+    {
+      "incident_id": "INC-20261001-001",
+      "region": "서울시 강남구",
+      "service": "인터넷",
+      "status": "조치완료",
+      "occurred_at": "2026-10-01T08:35:00+09:00",
+      "resolved_at": "2026-10-01T11:20:00+09:00",
+      "impact": "일부 고객 인터넷 속도 저하",
+      "description": "광 액세스 장비 설정 오류를 수정하고 서비스 정상화를 확인했습니다."
+    },
+    {
+      "incident_id": "INC-20261002-002",
+      "region": "경기도 성남시",
+      "service": "인터넷",
+      "status": "조치완료",
+      "occurred_at": "2026-10-02T14:10:00+09:00",
+      "resolved_at": "2026-10-02T15:05:00+09:00",
+      "impact": "일부 가입자 연결 지연",
+      "description": "백본 회선의 순간적인 패킷 손실을 조정하고 모니터링을 완료했습니다."
+    },
+    {
+      "incident_id": "INC-20261003-003",
+      "region": "서울시 강남구",
+      "service": "인터넷",
+      "status": "작업중",
+      "occurred_at": "2026-10-03T09:25:00+09:00",
+      "resolved_at": null,
+      "impact": "특정 아파트 단지 속도 저하",
+      "description": "현장 장비 교체 작업을 진행 중이며 복구 후 재측정할 예정입니다."
+    },
+    {
+      "incident_id": "INC-20261004-004",
+      "region": "인천시 남동구",
+      "service": "인터넷",
+      "status": "초기발생",
+      "occurred_at": "2026-10-04T16:40:00+09:00",
+      "resolved_at": null,
+      "impact": "장애 범위 확인 중",
+      "description": "고객 신고가 접수되어 영향 범위와 원인을 초기 조사 중입니다."
+    },
+    {
+      "incident_id": "INC-20261005-005",
+      "region": "부산시 해운대구",
+      "service": "인터넷",
+      "status": "조치완료",
+      "occurred_at": "2026-10-05T06:50:00+09:00",
+      "resolved_at": "2026-10-05T08:15:00+09:00",
+      "impact": "출근 시간대 접속 불안정",
+      "description": "분배기 전원 장애를 복구하고 회선 품질을 확인했습니다."
+    },
+    {
+      "incident_id": "INC-20261006-006",
+      "region": "대전시 유성구",
+      "service": "인터넷",
+      "status": "작업중",
+      "occurred_at": "2026-10-06T10:05:00+09:00",
+      "resolved_at": null,
+      "impact": "기업 고객 일부 회선 지연",
+      "description": "상위 회선 우회 작업을 진행하고 트래픽 분산 상태를 확인 중입니다."
+    },
+    {
+      "incident_id": "INC-20261006-007",
+      "region": "서울시 송파구",
+      "service": "인터넷",
+      "status": "조치완료",
+      "occurred_at": "2026-10-06T13:30:00+09:00",
+      "resolved_at": "2026-10-06T14:45:00+09:00",
+      "impact": "일부 고객 DNS 조회 실패",
+      "description": "DNS 캐시 오류를 초기화하고 정상 조회를 확인했습니다."
+    },
+    {
+      "incident_id": "INC-20261007-008",
+      "region": "광주시 북구",
+      "service": "인터넷",
+      "status": "초기발생",
+      "occurred_at": "2026-10-07T18:20:00+09:00",
+      "resolved_at": null,
+      "impact": "일부 가입자 접속 불가 신고",
+      "description": "장애 신고를 접수하고 현장 출동 및 장비 상태 확인을 요청했습니다."
+    },
+    {
+      "incident_id": "INC-20261008-009",
+      "region": "경기도 성남시",
+      "service": "인터넷",
+      "status": "작업중",
+      "occurred_at": "2026-10-08T07:40:00+09:00",
+      "resolved_at": null,
+      "impact": "일부 구간 지연 시간 증가",
+      "description": "광역 회선 품질 저하를 확인하여 우회 경로 적용 작업을 진행 중입니다."
+    },
+    {
+      "incident_id": "INC-20261008-010",
+      "region": "제주시 제주시",
+      "service": "인터넷",
+      "status": "초기발생",
+      "occurred_at": "2026-10-08T12:15:00+09:00",
+      "resolved_at": null,
+      "impact": "장애 영향 범위 미확인",
+      "description": "고객센터 접수 내용을 기준으로 장애 여부와 범위를 확인 중입니다."
+    }
+  ]
+}
