@@ -1,0 +1,53 @@
+# Environment files (keep safe templates trackable)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Private keys and secret-bearing credential files
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+
+# Local secrets and configuration
+.secrets/
+secrets/
+*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/**/workspace.xml
+.vscode/*.log
+
+# Logs, temporary files, and caches
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Common build outputs and dependencies
+node_modules/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+target/
+bin/
+obj/
